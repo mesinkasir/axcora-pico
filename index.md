@@ -1,6 +1,6 @@
 # AXCORA PICO
 ---------------------------------
-axcorapico themes template
+axcorapico themes template for pico cms
 
 Test Drive Demo 🚀 : [https://axcora.my.id/pico/demo/](https://axcora.my.id/pico/demo/)
 
